@@ -1,0 +1,58 @@
+CTH-RV Model Calibration Results Summary
+================================================================================
+
+Pair ID: 120.0-125.0
+----------------------------------------
+• α (alpha): -0.000345
+• β (beta): 0.386207
+• τ (tau): 1.50
+• Combined Error: 0.4367
+• Speed RMSE: 0.7332
+• Spacing RMSE: 0.1403
+• String Stability: STABLE
+• Stability Criterion: 0.000290
+
+Pair ID: 1087.0-1101.0
+----------------------------------------
+• α (alpha): -0.006552
+• β (beta): 0.172414
+• τ (tau): 1.50
+• Combined Error: 0.4969
+• Speed RMSE: 0.6580
+• Spacing RMSE: 0.3357
+• String Stability: STABLE
+• Stability Criterion: 0.009811
+
+Pair ID: 2066.0-2074.0
+----------------------------------------
+• α (alpha): 0.008966
+• β (beta): 0.161724
+• τ (tau): 1.50
+• Combined Error: 0.8352
+• Speed RMSE: 1.4222
+• Spacing RMSE: 0.2483
+• String Stability: UNSTABLE
+• Stability Criterion: -0.013400
+
+Pair ID: 260.0-267.0
+----------------------------------------
+• α (alpha): 0.024138
+• β (beta): -0.008621
+• τ (tau): 1.50
+• Combined Error: 0.2674
+• Speed RMSE: 0.3820
+• Spacing RMSE: 0.1527
+• String Stability: UNSTABLE
+• Stability Criterion: -0.047589
+
+Pair ID: 1463.0-1478.0
+----------------------------------------
+• α (alpha): 1.100000
+• β (beta): -0.475000
+• τ (tau): 1.50
+• Combined Error: 3.0641
+• Speed RMSE: 5.9524
+• Spacing RMSE: 0.1758
+• String Stability: UNSTABLE
+• Stability Criterion: -1.045000
+
