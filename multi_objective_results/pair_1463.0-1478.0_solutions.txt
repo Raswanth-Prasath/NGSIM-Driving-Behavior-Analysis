@@ -1,0 +1,35 @@
+Multi-Objective Optimization Results for Pair 1463.0-1478.0
+================================================================================
+
+Pareto Front: 1 non-dominated solutions
+Parameter τ = 1.50 (fixed)
+
+Notable Solutions:
+--------------------------------------------------------------------------------
+Solution Type        α (alpha)    β (beta)     Speed RMSE   Spacing RMSE String Stable
+--------------------------------------------------------------------------------
+Min Combined Error   -0.013846    0.330769     1.6483       0.1758       STABLE      
+Min Speed Error      -0.013846    0.330769     1.6483       0.1758       STABLE      
+Min Spacing Error    -0.013846    0.330769     1.6483       0.1758       STABLE      
+Best Compromise      -0.013846    0.330769     1.6483       0.1758       STABLE      
+
+Stability Analysis:
+--------------------------------------------------------------------------------
+The string stability criterion is: α²τ² + 2ατβ - 2α ≥ 0
+
+Min Combined Error:
+• Criterion Value: 0.014384
+• For stability with α = -0.013846, β must be less than 0.677051
+
+Min Speed Error:
+• Criterion Value: 0.014384
+• For stability with α = -0.013846, β must be less than 0.677051
+
+Min Spacing Error:
+• Criterion Value: 0.014384
+• For stability with α = -0.013846, β must be less than 0.677051
+
+Best Compromise:
+• Criterion Value: 0.014384
+• For stability with α = -0.013846, β must be less than 0.677051
+
